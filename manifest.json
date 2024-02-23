@@ -1,0 +1,10 @@
+{
+	"id": "periodic-reminders",
+	"name": "Periodic Reminders",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Shows popup reminders on a regular basis.",
+	"author": "Jonathan Bradley",
+	"authorUrl": "https://jonathanbradley.dev",
+	"isDesktopOnly": false
+}
